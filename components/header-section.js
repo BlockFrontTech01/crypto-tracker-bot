@@ -11,7 +11,7 @@ const HeaderSection = () => {
   }, []);
 
   const onFrameButton1Click = useCallback(() => {
-    window.open("https://jeffspace.vercel.app");
+    window.open("https://t.me/jeff96655");
   }, []);
 
   const openCryptotrackerMenuPopup = useCallback(() => {
